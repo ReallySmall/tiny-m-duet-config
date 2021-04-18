@@ -1,1 +1,7 @@
 2021-04-10 13:04:07 Event logging started
+2021-04-17 21:59:47 [info] Event logging started at level warn
+2021-04-17 21:59:47 [info] Running: Duet WiFi 1.02 or later: 3.2.2 (2021-02-11)
+2021-04-17 21:59:47 [warn] Error: in file macro line 8 column 30: M906: array too long, max length = 1
+2021-04-17 21:59:47 [warn] Error: in file macro line 12 column 22: M350: array too long, max length = 1
+2021-04-17 21:59:47 [warn] Error: in file macro line 13 column 21: M92: array too long, max length = 1
+2021-04-17 21:59:47 [warn] Error: in file macro line 14 column 30: M906: array too long, max length = 1

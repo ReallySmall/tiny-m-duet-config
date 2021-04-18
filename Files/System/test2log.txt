@@ -1,0 +1,6 @@
+2021-04-17 21:58:50 [info] Event logging started at level warn
+2021-04-17 21:58:50 [info] Running: Duet WiFi 1.02 or later: 3.2.2 (2021-02-11)
+2021-04-17 21:59:07 [warn] Error: Fan number 2 not found
+2021-04-17 21:59:19 [warn] Error: Fan number 2 not found
+2021-04-17 21:59:30 [warn] Error: Fan number 2 not found
+2021-04-17 21:59:47 [info] Event logging stopped
